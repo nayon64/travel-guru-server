@@ -1,0 +1,149 @@
+[
+	{
+		"id":1,
+		"name":"Cox's Bazar",
+		"imgUrl":"https://en.wikipedia.org/wiki/Cox%27s_Bazar#/media/File:Cox's_Bazar_Sunset.JPG",
+		"details":"Cox's Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox's Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox's Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox's Bazar beach started only as a small port and health resort.Though the beach is considered to be the longest beach in the world, it has been the least crowded among the other beaches. Here, visitors can enjoy the relaxing breeze of the Bay of Bengal Sea and the peacefulness of the place. The Cox's bazar beach certainly has the finest leisure it can offer to each of its visitors. People can take a timely stroll along the lengthened stretch of the beach and enjoy the view of the amazing seascape. Visitors can also enjoy water sport activities like scuba diving, surfing, and try some boat rides.",
+		"hotels":[
+			{
+				"id":"01",
+				"name":"Light bright airy stylish apt & safe peaceful stay",
+				"img":"https://unsplash.com/photos/67-sOi7mVIk",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":45,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"02","name":"Apartment in Lost Panorama",
+				"img":"https://unsplash.com/photos/ghPHKipv790",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.8,
+				"price":52,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"03",
+				"name":"AR Lounge & Pool (r&r + b&b)",
+				"img":"https://unsplash.com/photos/ATprPSzYu00",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":44,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			}
+		]
+	},
+	{
+		"id":2,
+		"name":"Saits Martin",
+		"imgUrl":"https://unsplash.com/photos/LNS5Yc6XLng",
+		"details":"Cox's Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox's Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox's Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox's Bazar beach started only as a small port and health resort.Though the beach is considered to be the longest beach in the world, it has been the least crowded among the other beaches. Here, visitors can enjoy the relaxing breeze of the Bay of Bengal Sea and the peacefulness of the place. The Cox's bazar beach certainly has the finest leisure it can offer to each of its visitors. People can take a timely stroll along the lengthened stretch of the beach and enjoy the view of the amazing seascape. Visitors can also enjoy water sport activities like scuba diving, surfing, and try some boat rides.",
+		"hotels":[
+			{
+				"id":"01",
+				"name":"Light bright airy stylish apt & safe peaceful stay",
+				"img":"https://unsplash.com/photos/67-sOi7mVIk",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":45,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"02","name":"Apartment in Lost Panorama",
+				"img":"https://unsplash.com/photos/ghPHKipv790",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.8,
+				"price":52,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"03",
+				"name":"AR Lounge & Pool (r&r + b&b)",
+				"img":"https://unsplash.com/photos/ATprPSzYu00",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":44,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			}
+		]
+	},
+	{
+		"id":3,
+		"name":"Sundorban",
+		"imgUrl":"https://unsplash.com/photos/LNS5Yc6XLng",
+		"details":"Cox's Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox's Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox's Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox's Bazar beach started only as a small port and health resort.Though the beach is considered to be the longest beach in the world, it has been the least crowded among the other beaches. Here, visitors can enjoy the relaxing breeze of the Bay of Bengal Sea and the peacefulness of the place. The Cox's bazar beach certainly has the finest leisure it can offer to each of its visitors. People can take a timely stroll along the lengthened stretch of the beach and enjoy the view of the amazing seascape. Visitors can also enjoy water sport activities like scuba diving, surfing, and try some boat rides.",
+		"hotels":[
+			{
+				"id":"01",
+				"name":"Light bright airy stylish apt & safe peaceful stay",
+				"img":"https://unsplash.com/photos/67-sOi7mVIk",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":45,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"02","name":"Apartment in Lost Panorama",
+				"img":"https://unsplash.com/photos/ghPHKipv790",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.8,
+				"price":52,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			},
+			{
+				"id":"03",
+				"name":"AR Lounge & Pool (r&r + b&b)",
+				"img":"https://unsplash.com/photos/ATprPSzYu00",
+				"guests":4,
+				"bedrooms":2,
+				"beds":2,
+				"baths":2,
+				"rating":4.5,
+				"price":44,
+				"other":[
+					"Wifi","Air Condition","Kitchen","Kitchen","Flexible"
+				]
+			}
+		]
+	}
+]
